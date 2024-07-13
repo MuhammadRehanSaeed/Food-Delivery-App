@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136370820378",
+    "project_id": "pindifoods-94c4d",
+    "storage_bucket": "pindifoods-94c4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136370820378:android:b06321ab00e420814608a3",
+        "android_client_info": {
+          "package_name": "com.example.pindifoods"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4zaRYnlI5XLCy8KJCu-hIvMGEEU9MHnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

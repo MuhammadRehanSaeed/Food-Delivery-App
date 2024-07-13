@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">classproject</string>
+    <string name="splashtext">Pindi Foods</string>
+    <string name="designname">Design By Rehan</string>
+    <string name="login">Login Into Your Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">home</string>
+    <string name="search">search</string>
+
+    <string name="cart">cart</string>
+    <string name="profile">user</string>
+    <string name="history">history</string>
+</resources>
